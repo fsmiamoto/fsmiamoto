@@ -10,4 +10,5 @@ Loves to learn by experimenting with new tools and techonologies.
 - Kubernetes
 - Serverless
 - Cloud and distributed systems
-- Operating systems
+- Linux and operating systems
+- Language learning - こんにちは！
