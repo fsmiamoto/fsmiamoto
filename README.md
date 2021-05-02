@@ -1,6 +1,8 @@
-## Hello world 👋
+## Hello world 💻
 
 I'm a fan of open source software that really likes to learn new stuff.
+
+Currently a student of Electronics Engineering at [Universidade Tecnológica Federal do Paraná](https://utfpr.edu.br).
 
 ## My current study interests
 <table>
