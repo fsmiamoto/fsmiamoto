@@ -1,6 +1,6 @@
 ## Hello world 💻
 
-I'm a fan of open source software that really likes to learn new stuff.
+I'm a fan of FOSS that really likes to learn new stuff!
 
 Currently a student of Electronics Engineering at [Universidade Tecnológica Federal do Paraná](https://utfpr.edu.br).
 
@@ -9,10 +9,9 @@ Currently a student of Electronics Engineering at [Universidade Tecnológica Fed
     <tr>
         <td>
             <ul>
-                <li>Concurrency oriented languages like Go and Elixir</li>
-                <li>Functional Programming</li>
+                <li>Concurrent and Functional Programming</li>
                 <li>Cloud computing and distributed systems</li>
-                <li>Operating systems internals</li>
+                <li>Operating Systems internals</li>
                 <li>Containers and their orchestration</li>
                 <li>Language learning - こんにちは！</li>
             </ul>
