@@ -1,4 +1,4 @@
-## Hello world 💻
+## Hello world 👋
 
 I'm a fan of FOSS that really likes to learn new stuff!
 
