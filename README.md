@@ -1,11 +1,10 @@
 ## Hello world 👋
 
-I'm a fan of FOSS that really likes to learn new stuff!
+A big fan of FOSS and an avid learner.
 
-Currently a student of Electronics Engineering at [Universidade Tecnológica Federal do Paraná](https://utfpr.edu.br).
+Currently working as a Software Development Engineer at Amazon.
 
-
-## My current study interests
+## My current interests
 <table>
     <tr>
         <td>
@@ -14,7 +13,7 @@ Currently a student of Electronics Engineering at [Universidade Tecnológica Fed
                 <li>Cloud computing and distributed systems</li>
                 <li>Operating Systems internals</li>
                 <li>Containers and their orchestration</li>
-                <li>Language learning - こんにちは！</li>
+                <li>Computer and Human Language learning - こんにちは！</li>
             </ul>
         </td>
         <td>
@@ -22,3 +21,8 @@ Currently a student of Electronics Engineering at [Universidade Tecnológica Fed
         </td>
     </tr>
 </table>
+
+## Get in touch
+- [Personal Website](https://dorayaki.co)
+- [LinkedIn](https://www.linkedin.com/in/fsmiamoto/)
+- [Email me](mailto:hello@dorayaki.co)
