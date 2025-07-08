@@ -2,7 +2,7 @@
 
 A big fan of FOSS and an avid learner.
 
-Currently working as a Software Development Engineer at Amazon.
+Currently working as a Software Development Engineer at Amazon in Tokyo, Japan.
 
 ## My current interests
 <table>
@@ -10,9 +10,8 @@ Currently working as a Software Development Engineer at Amazon.
         <td>
             <ul>
                 <li>Concurrent and Functional Programming</li>
-                <li>Cloud computing and distributed systems</li>
-                <li>Operating Systems internals</li>
-                <li>Containers and their orchestration</li>
+                <li>Large Language Models and Prompt Engineering</li>
+                <li>Operating Systems</li>
                 <li>Computer and Human Language learning - こんにちは！</li>
             </ul>
         </td>
