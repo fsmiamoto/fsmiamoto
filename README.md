@@ -1,8 +1,10 @@
 ## Hello world 👋
 
-A big fan of FOSS and an avid learner.
+I'm Flavio and and love learning and building things.
 
-Currently working as a Software Development Engineer at Amazon in Tokyo, Japan.
+Currently working as a Software Development Engineer at Amazon Japan 🇯🇵
+
+Born and raised in the lovely city of Curitiba, Brazil 🇧🇷
 
 ## My current interests
 <table>
